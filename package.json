@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server/index.js",
+    "start": "nodemon server/index.js",
     "gql-gen": "gql-gen",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
